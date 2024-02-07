@@ -1,0 +1,11 @@
+-python -m pip install -U pip
+-openai
+-gpt_index==0.4.24
+-gradio
+-PyPDF2
+-PyCryptodome
+-langchain==0.0.153
+-transformers
+-torch
+-tensorflow
+-flax
